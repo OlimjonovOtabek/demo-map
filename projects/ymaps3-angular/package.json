@@ -1,0 +1,12 @@
+{
+  "name": "ymaps3-angular",
+  "version": "0.1.0",
+  "description": "Angular (standalone) wrapper for Yandex Maps v3 (ymaps3)",
+  "author": "Your Name",
+  "license": "MIT",
+  "keywords": ["angular","yandex","ymaps3","maps","webgl"],
+  "peerDependencies": { "@angular/core": ">=18 <21", "@angular/common": ">=18 <21" },
+  "sideEffects": false,
+  "module": "fesm2022/ymaps3-angular.mjs",
+  "typings": "ymaps3-angular.d.ts"
+}
