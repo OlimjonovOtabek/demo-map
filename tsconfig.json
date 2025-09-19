@@ -1,0 +1,8 @@
+{
+  "files": [],
+  "references": [
+    {
+      "path": "projects/ymaps3-angular/tsconfig.lib.json"
+    }
+  ]
+}
